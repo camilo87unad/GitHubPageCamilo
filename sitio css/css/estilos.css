@@ -1,0 +1,51 @@
+body{
+	background: #FFFFFF;
+	color: #000000;	
+	font-family: 'Open sans','sans-serif';
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1,h3,h4,h5,h6{
+	color: black;
+}
+h2 {
+
+	font-size: 25px;
+	color: red;
+}	
+a{
+
+	color: green;
+	font-size: 20px;
+}
+
+p{
+	color: blue;
+	font-size: 20px;
+}
+p a{
+	color: red;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+span{
+
+	color: orange;
+	font-size: 25px;
+}
+
+#principal p{
+	color: #CCC;
+	font-size: 35px;
+	padding: 20px;
+}
+
+.resaltar{
+
+	font-size: 15px;	
+	color: green;
+}
